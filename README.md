@@ -3,8 +3,8 @@ Its a script which has all the best available options to find open ports and the
 
 ## Options
 ```
-1- Naabu + Nmap        : Speed Of naabu to Scan Ports and enumrate its services using nmap
-2- Masscan + Nmap      : Speed Of Masscan to Scan Ports and enumrate its services using nmap
+1- Naabu + Nmap        : Speed Of naabu to Scan Ports and enumerate its services using nmap
+2- Masscan + Nmap      : Speed Of Masscan to Scan Ports and enumerate its services using nmap
 3- Shodanfy            : Use Shodan.io to gets target ports and services
 4- Simple Nmap         : Simple Nmap Scan For Most Common Service Ports
 ```
