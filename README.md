@@ -8,6 +8,11 @@ Its a script which has all the best available options to find open ports and the
 3- Shodanfy            : Use Shodan.io to gets target ports and services
 4- Simple Nmap         : Simple Nmap Scan For Most Common Service Ports
 ```
+## Installation
+```
+$ sudo chmod +x install.sh
+$ ./install.sh
+```
 
 ## Usage
 ```
@@ -37,4 +42,3 @@ Usage:
 
 You can also use multiple options for example.
 `./portscan.sh -o Target -n subdomains.txt -p subdomains.txt` But Dont Forget to put subdomains list again with the option.
-
